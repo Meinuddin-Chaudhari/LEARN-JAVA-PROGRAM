@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="BootMVCPro6-DataBindingAppUsingSpringTagLibrary"/>
+<aop-project name="SPRING-MVC-01"/>
+<aop-project name="BootMVCProj2-WishMessageApp"/>
+<aop-project name="BootMVCProj4-DataRendering"/>
+<aop-project name="CRUDAPP-USING-DataJPA-MVC-THYMLEAF"/>
+<aop-project name="CRUDAPP-USING-DataJPA-MVC-JSP"/>
+<aop-project name="BootMVCProj3-RequestPath"/>
+<aop-project name="BootMVCPro7-DataBindingAppUsingRequestParamApp"/>
+<aop-project name="BootMVCProj9-MVC-CRM-CRUDAPP-thymleaf"/>
+<aop-project name="BootMVCPro5-DataBindingAppUsingHTMLForms"/>
+<aop-project name="BootMVCProj8-MVC-CRM-CRUDAPP-JSP"/>
+</aop-reference-model>

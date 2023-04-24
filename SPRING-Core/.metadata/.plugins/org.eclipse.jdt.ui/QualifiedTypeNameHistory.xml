@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ai.neuron.dao.IDemo"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="ai.neuron.dao.UserDao2"/>
+    <fullyQualifiedTypeName name="in.ineuron.comp.Flipkart"/>
+</qualifiedTypeNameHistroy>

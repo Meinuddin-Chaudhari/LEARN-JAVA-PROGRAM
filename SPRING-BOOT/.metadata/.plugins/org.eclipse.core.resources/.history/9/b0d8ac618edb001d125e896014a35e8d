@@ -1,0 +1,5 @@
+2023-04-15 18:34:05 INFO  Starting BootLoggingUsingLog4jApplication using Java 17.0.4.1 on DESKTOP-A97CV5M with PID 7300 (E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot-logging-using-SL4J-Log4j2\target\classes started by my pc in E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot-logging-using-SL4J-Log4j2)
+2023-04-15 18:34:05 INFO  No active profile set, falling back to 1 default profile: "default"
+2023-04-15 18:34:05 INFO  Started BootLoggingUsingLog4jApplication in 1.061 seconds (JVM running for 1.721)
+2023-04-15 18:34:05 INFO  Course content is choosen :: 1.HTML 2.CSS 3.JavaScript
+2023-04-15 18:34:05 INFO  Course price is ready :: 500.0

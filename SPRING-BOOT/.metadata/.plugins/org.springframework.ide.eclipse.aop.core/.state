@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="BootProj03-DependancyInjection"/>
+<aop-project name="BootProj02-DependancyInjection"/>
+<aop-project name="Boot06-InjectionAnyTypeforSpringBeanApp"/>
+<aop-project name="Boot04-BulkLoadingApp"/>
+<aop-project name="Boot05-ValueAnnotationApp"/>
+</aop-reference-model>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-21-SpringPnameSpaceandCnameSpace"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-19-AutowiringinXMLUsingByConstructorApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-18-AutowiringinXMLUsingByNameandByTypeApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-20-Springi18NApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-17-BeanAlliasApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-16-CollectionMergingApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-14-SpringBeanInheritanceApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-13-SpringNullInjectionApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-11-SpringCollectionInjectionApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-15-RealTimeDI-UsingXMLPropertiesBeanInheritanceApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-06-RealTimeDI-UsingXML"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-10-SpringBeanID"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-09-SpringBeanScope"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\IOCProject-08-SpringBeanScope"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\RealTime-DI-Approach"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\CircularDependancyInjectionApp-05"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\ConstructorInjection-04"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\ConstructorSetterInjection-03"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\ConstructorInjection-02"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\SetterInjection-01"/>
+			<item value="C:\Users\my pc\Desktop\Spring Annotation approach"/>
+			<item value="C:\Users\my pc\Desktop\Spring class"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-Core\billingApp-using-coreJava"/>
+		</list>
+	</section>
+</section>

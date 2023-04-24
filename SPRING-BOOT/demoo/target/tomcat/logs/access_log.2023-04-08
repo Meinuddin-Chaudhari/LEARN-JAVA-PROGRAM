@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:06:29:05 +0530] "GET /StudentApp/ HTTP/1.1" 200 52 http-bio-9999-exec-1 603
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:06:29:43 +0530] "GET /StudentApp/index.jsp HTTP/1.1" 200 52 http-bio-9999-exec-3 2
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:06:29:48 +0530] "GET /StudentApp/index.jsp HTTP/1.1" 200 52 http-bio-9999-exec-4 1
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:06:29:53 +0530] "GET /StudentApp/ HTTP/1.1" 200 52 http-bio-9999-exec-5 3
+0:0:0:0:0:0:0:1 - - [08/Apr/2023:06:29:56 +0530] "GET /StudentApp/ HTTP/1.1" 200 52 http-bio-9999-exec-6 1

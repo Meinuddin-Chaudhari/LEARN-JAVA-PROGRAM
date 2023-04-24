@@ -1,0 +1,9 @@
+in.ineuron.BootLoggingUsingLog4jApplication 517 main  INFO  Starting BootLoggingUsingLog4jApplication using Java 17.0.4.1 on DESKTOP-A97CV5M with PID 1696 (E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot-logging-using-Log4j\target\classes started by my pc in E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot-logging-using-Log4j) 2023-04-15 20:21:53,299  
+ in.ineuron.BootLoggingUsingLog4jApplication 519 main  INFO  No active profile set, falling back to 1 default profile: "default" 2023-04-15 20:21:53,301  
+ in.ineuron.BootLoggingUsingLog4jApplication 1206 main  INFO  Started BootLoggingUsingLog4jApplication in 1.048 seconds (JVM running for 1.574) 2023-04-15 20:21:53,988  
+ in.ineuron.beans.Student 1209 main  DEBUG  control entering inside Student :: preparation(,) 2023-04-15 20:21:53,991  
+ in.ineuron.beans.UICourseMaterial 1210 main  DEBUG  control entering inside UICourseMaterial :: courseContent 2023-04-15 20:21:53,992  
+ in.ineuron.beans.Student 1210 main  INFO  Course content is choosen :: 1.HTML 2.CSS 3.JavaScript 2023-04-15 20:21:53,992  
+ in.ineuron.beans.Student 1210 main  INFO  Course price is ready :: 500.0 2023-04-15 20:21:53,992  
+ in.ineuron.beans.Student 1211 main  DEBUG  control exiting from Student :: prepartion(,) 2023-04-15 20:21:53,993  
+ 

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;in.ineuron&apos; to &apos;BootProj03-DependancyInjection/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;BootProj02-DependancyInjection&apos;&#x0D;&#x0A;- Destination element: &apos;BootProj03-DependancyInjection/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;BootProj02-DependancyInjection/src/main/java/in.ineuron&apos;" description="Copy package" destination="=BootProj03-DependancyInjection/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.ineuron" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1680233178827" version="1.0"/>
+</session>

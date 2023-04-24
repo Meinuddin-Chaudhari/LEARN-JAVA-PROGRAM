@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\TestApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot-logging-using-SL4J-Log4j2"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot-logging-using-Log4j"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\Log4j-02"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\Log4j-01"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\ServletJSPJDBCApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\MavenWebApp"/>
+			<item value="C:\Users\my pc\Desktop\Boot07-InjectionAnyTypeforSpringBeanAppusingYML"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot07-InjectionAnyTypeforSpringBeanAppusingYML"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot06-InjectionAnyTypeforSpringBeanApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot05-ValueAnnotationApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot04-BulkLoadingApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\BootProj03-DependancyInjection"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\BootProj02-DependancyInjection"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-BOOT\Boot01-BasicApp"/>
+		</list>
+	</section>
+	<section name="ResourceNavigator">
+		<item key="ResourceViewer.STORE_SORT_TYPE" value="1"/>
+		<item key="ResourceWorkingSetFilter.STORE_WORKING_SET" value="Aggregate for window 1680228508469"/>
+	</section>
+</section>

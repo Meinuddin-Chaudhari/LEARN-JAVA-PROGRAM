@@ -1,0 +1,96 @@
+<Configuration >
+    <Appenders>
+      <RollingFile
+    name="rollingFile"
+    fileName="E:/app_msg.log"
+    filePattern="D:/app_msg.%d{yyyy-MM-dd-hh-mm}.log.gz"
+    ignoreExceptions="false">
+    <PatternLayout>
+        <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern>
+    </PatternLayout>
+    <Policies>
+        <TimeBasedTriggeringPolicy  filePattern="D:/app_msg.%d{yyyy-MM-dd-hh-mm}.log.gz"  />
+    </Policies>
+    <DefaultRolloverStrategy max="5" />
+</RollingFile>
+</Appenders>
+ <Loggers>
+        <Root level="trace">
+            <AppenderRef ref="rollingFile"/>
+        </Root>
+    </Loggers>
+</Configuration> 
+
+
+
+
+
+
+
+<!-- Working with console appender Keep log4j2-spring.xml file in src/main/resources -->
+<!-- =============================================================================== -->
+<!-- <?xml version="1.0" encoding="UTF-8"?> -->
+<!-- <Configuration > -->
+<!--     <Appenders> -->
+<!--         <Console name="cons" target="SYSTEM_OUT"> -->
+<!--             <PatternLayout -->
+<!--                     pattern="[%d{MM:dd HH:mm:ss.SSS}] [%p] [%c] - %m %F %L %n"/> -->
+<!--         </Console> -->
+<!--     </Appenders> -->
+<!--     <Loggers> -->
+<!--         <Root level="trace"> -->
+<!--             <AppenderRef ref="cons"/> -->
+<!--         </Root> -->
+<!--     </Loggers> -->
+<!-- </Configuration>  -->
+
+
+<!-- Working with RollingFileAppender and PatternLayout Keep log4j2-spring.xml file in src/main/resources -->
+<!-- =================================================================================================== -->
+<!-- <Configuration> -->
+<!-- 	<Appenders> -->
+<!-- 		<RollingFile -->
+<!-- 			name="rollingFile" -->
+<!-- 			fileName="D:/application_msg.log" -->
+<!-- 			filePattern="D:/application_msg.%i.log.zip" -->
+<!-- 			ignoreExceptions="false"> -->
+<!-- 			<PatternLayout> -->
+<!-- 				<Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m %F %L %n</Pattern> -->
+<!-- 			</PatternLayout> -->
+<!-- 			<Policies> -->
+<!-- 				<SizeBasedTriggeringPolicy size="5kb" /> -->
+<!-- 			</Policies> -->
+<!-- 			<DefaultRolloverStrategy max="3" /> -->
+<!-- 		</RollingFile> -->
+<!-- 	</Appenders> -->
+<!-- 	<Loggers> -->
+<!-- 		<Root level="DEBUG"> -->
+<!-- 			<AppenderRef ref="rollingFile" /> -->
+<!-- 		</Root> -->
+<!-- 	</Loggers> -->
+<!-- </Configuration> -->
+
+<!-- Working with DailyRollingFileAppender and PatternLayout Keep log4j2-spring.xml file in src/main/resources -->
+<!-- ======================================================================================================== -->
+<!-- <Configuration > -->
+<!--     <Appenders> -->
+<!--       <RollingFile -->
+<!--     name="rollingFile" -->
+<!--     fileName="E:/app_msg.log" -->
+<!--     filePattern="D:/app_msg.%d{yyyy-MM-dd-hh-mm}.log.gz" -->
+<!--     ignoreExceptions="false"> -->
+<!--     <PatternLayout> -->
+<!--         <Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern> -->
+<!--     </PatternLayout> -->
+<!--     <Policies> -->
+<!--         <TimeBasedTriggeringPolicy  filePattern="D:/app_msg.%d{yyyy-MM-dd-hh-mm}.log.gz"  /> -->
+<!--     </Policies> -->
+<!--     <DefaultRolloverStrategy max="5" /> -->
+<!-- </RollingFile> -->
+<!-- </Appenders> -->
+<!--  <Loggers> -->
+<!--         <Root level="trace"> -->
+<!--             <AppenderRef ref="rollingFile"/> -->
+<!--         </Root> -->
+<!--     </Loggers> -->
+<!-- </Configuration>  -->

@@ -1,0 +1,29 @@
+package in.ineuron.comp;
+
+import java.util.Date;
+
+//Target class(userDefined=>WishMessageGenerator)
+public class WishMessageGenerator {
+
+	// Defendant class(PreDefined=> java.util.Date)
+	private Date date;
+
+	public WishMessageGenerator() {
+		
+	}
+
+	public WishMessageGenerator(Date date) {
+		this.date = date;
+		System.out.println("constructor");
+	}
+
+	public void setDate(Date date) {
+		this.date = date;
+		System.out.println("setter");
+	}
+
+	public String toString() {
+		return "WishMessageGenerator [date=" + date + "]";
+	}
+
+}
