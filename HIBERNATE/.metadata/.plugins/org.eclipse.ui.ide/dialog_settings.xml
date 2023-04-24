@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Advance-java-Eclipse-File\HIBERNATE\HB-40-HibernateCollectionMapping"/>
+			<item value="E:\Advance-java-Eclipse-File\HIBERNATE\HB-39-HibernateInheritanceTCC"/>
+			<item value="E:\Advance-java-Eclipse-File\HIBERNATE\HB-38-HibernateInheritanceTSC"/>
+			<item value="E:\Advance-java-Eclipse-File\HIBERNATE\HB-37-HibernateInheritanceSingleTable"/>
+			<item value="E:\Advance-java-Eclipse-File\HIBERNATE\HB-36-HibernateComponentMapping"/>
+			<item value="C:\Users\my pc\Desktop\HB-35-ReverseEngineerApp"/>
+			<item value="C:\Users\my pc\Desktop\MVCCrudApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-33-HibernateHQLPagination"/>
+			<item value="C:\Users\my pc\Desktop\HB-32-HibernateSoftDeletionApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-31-HibernateFilterApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-30-CriterianAPI"/>
+			<item value="C:\Users\my pc\Desktop\HB-29-StoredProcedureApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-29-NamedNativeSQLQueryApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-28-NativeSQLQueryApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-27-HQLInsertQuery"/>
+			<item value="C:\Users\my pc\Desktop\HB-26-HQLNonSelectApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-25-HQLSelectAPP"/>
+			<item value="C:\Users\my pc\Desktop\HB-25-HQLAPP"/>
+			<item value="C:\Users\my pc\Desktop\HB-24-HibernatePesimiticLocking"/>
+			<item value="C:\Users\my pc\Desktop\HB-23-HibernateOptimisticLocking"/>
+			<item value="E:\Advance-java-Eclipse-File\HIBERNATE\HB-21-InteractionwithMulitpleDB"/>
+			<item value="E:\Advance-java-Eclipse-File\HIBERNATE\Hibernate-Lob-operation"/>
+			<item value="C:\Users\my pc\Desktop\HB-20-ConnectionPool"/>
+			<item value="C:\Users\my pc\Desktop\HB-19-MergeOperationApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-18-HibernateCaching-L2"/>
+			<item value="C:\Users\my pc\Desktop\HB-17-HibernateCachingApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-16-HibernateTimeStampingApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-15-HibernateVersioningApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-14-HibernateDateOperation"/>
+			<item value="C:\Users\my pc\Desktop\HB-13-HibernateCompositeIdApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-12-Hibernate-CustomGeneratorsApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-11-Hibernate-JPAGeneratorsApp"/>
+			<item value="C:\Users\my pc\Desktop\HibernateCrudApp"/>
+			<item value="C:\Users\my pc\Desktop\HB-10-Hibernate-GeneratorsApp"/>
+			<item value="C:\Users\my pc\Desktop\HB09-Configuration-Setup-App"/>
+			<item value="C:\Users\my pc\Desktop\HB08-DB-Entity-Synchronization"/>
+			<item value="C:\Users\my pc\Desktop\HB07-LoadAndDeleteApp"/>
+			<item value="C:\Users\my pc\Desktop\HB06-SaveOrUpdateApp"/>
+			<item value="C:\Users\my pc\Desktop\HB05-UpdateApp"/>
+			<item value="C:\Users\my pc\Desktop\HB04-LoadApp"/>
+			<item value="C:\Users\my pc\Desktop\HB03-GETApp"/>
+			<item value="C:\Users\my pc\Desktop\HB02-PersistApp"/>
+			<item value="C:\Users\my pc\Desktop\HB01-SaveApp"/>
+		</list>
+	</section>
+</section>

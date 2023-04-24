@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Advance-java-Eclipse-File\SPRING-ANNOTATON\IOCProject-29-RealTimeDI-100%SpringAnnotationsCRUDAPP"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-ANNOTATON\IOCProject-28-100%SpringBeanConfigurationApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-ANNOTATON\IOCProject-27-SpringBeanLifeCycleActionApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-ANNOTATON\IOCProject-26-Spring@SteroTypeAnnotation"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-ANNOTATON\IOCProject-25-RealTimeDI-SteroAnnotationsandPropertiesFileApproach"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-ANNOTATON\IOCProject-24-Spring@AutowiredatConstructorApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-ANNOTATON\IOCProject-23-Spring@AutowiredAppInstanceandSetterApp"/>
+			<item value="E:\Advance-java-Eclipse-File\SPRING-ANNOTATON\IOCProject-22-Spring@RequiredAnnotation"/>
+		</list>
+	</section>
+</section>

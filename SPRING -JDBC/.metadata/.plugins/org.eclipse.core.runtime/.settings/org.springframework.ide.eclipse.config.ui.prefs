@@ -1,0 +1,5 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/DAOProject1-Xml-JdbcTemplateDirectMethods/src/main/java/in/ineuron/cfg/applicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/DAOProject1-Xml-JdbcTemplateDirectMethods/src/main/java/in/ineuron/cfg/persistence-beans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/DAOProject1-Xml-JdbcTemplateDirectMethods/src/main/java/in/ineuron/cfg/service-beans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/DAOProject1-Xml-JdbcTemplateDirectMethods/src/main/java/in/ineuron/dao/service-beans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1
