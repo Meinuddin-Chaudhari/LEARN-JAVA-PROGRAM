@@ -1,0 +1,49 @@
+Technolgies used
+================
+DispatcherServlet(InbuiltController)
+1. Controller(plain java class)
+2. Service(plainjava class)
+3. DAO(spring-datajpa)
+4. View part(Html,Css,JSP)
+
+Customer-RelationShip-Manager Project
+=====================================
+ 1.CreateCustomer(save(Customer))
+ 2.ReadAllCustomer(findById(customerId))
+ 3.UpdateCustomer(save(Customer))
+ 4.DeleteCustomer(deleteById(customerId))
+
+                                             (Spring-data-jpa)
+Controller=========> Service===========>DAO=====================>Database
+
+Try on our own
+==============
+=> I18N
+=> Pagination
+
+		refer:: BootMVCProj8-MVC-CRM-CRUDAPP
+
+
+Thymeleaf
+========
+ a. In pom.xml add the starter files
+
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-thymeleaf</artifactId>
+</dependency>
+
+b. Keep the view components inside src/main/resources/templates
+		templates
+			|-> customers
+					|=> customer-form.html
+					|=> list-customers.html
+
+c. Keep index.html as the landing page,keep it src/main/resources/static
+	<meta http-equiv="refresh" content="0; URL='customer/list'" />
+
+
+
+
+
+

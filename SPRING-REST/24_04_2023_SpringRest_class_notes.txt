@@ -1,0 +1,72 @@
+JavaScript Videos               :: Uploaded in Resource section[Full Stack Java Batch]
+Revision class of JavaScript on :: Saturday[3.00PM]
+========================================================================
+
+Tommo topic :: SpringAOP[Morning 7.00AM]
+Link :: https://us06web.zoom.us/j/82753287803
+
+
+SpringRest and Microservices[Pre-Requisite:: SpringBoot and SpringMVC]
+======================================================================
+Distrubuted Applications
+========================
+ 1. Using java we can develop several types of applications
+	a. CUI and GUI based applications
+	b. Web applications
+	c. Distrubuted applications.
+
+CUI and GUI based applications
+==============================
+ We prefer using J2SE module[CoreJava] of java to build these type of applications
+  1. CUI => Character User Interface applications
+		eg: Console based applications[Notepad,calculator,....]
+  2. GUI => Graphical User Interface applications(Swings, Applets)
+		eg: Eclipse,Zoom,MS-Office
+
+If we build CUI/GUI applications every user should install these apps in their machine to use.
+Standalone applications are specific to machine.
+
+Web applications
+================
+ We prefer using JEE module(Servlet,JSP) and Spring MVC to build these type of applications
+
+=> The applications which runs over the internet is called "webapplications".
+=> These application no need to download and no need to install.
+=> Anybody can access webapps from any location using browser with internet.
+		eg: Gmail,Facebook,IRCTC etc,...
+=> It uses client and server architecture.
+=> client (browser) and in server computer we have project.
+Note: Main theme is Customer - Buisness communication.
+
+Distrubuted applications
+=========================
+   We prefer using WebServices and RestFulSevices to develop "Distrubuted applications".
+=> The application which is communicating with other applications is called as "Distrubuted applications".
+=> Distrubuted applications are meant for Buisness - Buisness communication.
+		eg: browser=========> flipart============> paypal ===========> visa/Master/upi ============> SBI/ICICI
+			    webapps	     distrubuted          distrubuted                  distrubuted
+
+payment gateway => visa/master/upi provides world wide infrastructure to perform cards based transactions.
+paypal -> It acts as a brigde between ecommerce site and payment gateway.
+The cards issued by visa/master/upi will be given to customer through banks by linking with bank accounts.
+	
+=> We need Distrubuted applications becoz of reusing the buisness process.
+	usecase 1: Ineuron company----to generate salary slip  -------> Excility global
+	usecase 2: Ineuron company----to display weather forecast-----> IBM weather App
+	usecase 3: Passport App -------> Adhar App
+
+
+Technologies available to build Distrubuted applications are
+  a. CORBA
+  b. RMI
+  c. EJB
+  d. Webservices[Soap and XML]
+  e. RESTFul services(RepresentationStatefull Services)[SpringReST]
+
+
+
+
+
+
+
+

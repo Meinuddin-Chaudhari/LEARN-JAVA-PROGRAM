@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="in.ineuron.persistence.StudentDaoImpl"/>
+    <fullyQualifiedTypeName name="in.ineuron.service.StudentServiceImpl"/>
+    <fullyQualifiedTypeName name="servicefactory.StudentServiceFactory"/>
+    <fullyQualifiedTypeName name="in.ineuron.daofactory.StudentDaoFactory"/>
+    <fullyQualifiedTypeName name="in.ineuron.persistence.IStudentDao"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.connect.spi.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="in.ineuron.util.JdbcUtil"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="com.zaxxer.hikari.HikariConfig"/>
+    <fullyQualifiedTypeName name="com.zaxxer.hikari.HikariDataSource"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="in.ineuron.servicefactory.StudentServiceFactory"/>
+    <fullyQualifiedTypeName name="in.ineuron.service.IStudentService"/>
+    <fullyQualifiedTypeName name="in.ineuron.dto.Student"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.jdbc.MysqlConnectionPoolDataSource"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,109 @@
+
+
+DataJpa Pending topics
+======================
+1. Working with Embeded Database
+2. Working with Postgresql Database
+3. Working with Mulitple database
+4. Association
+5. SpringMail
+
+
+Embeded :: By default it would be a part of software.
+
+Embeded Database :: When running the application(In JRE it would available)
+				Once the application stops then Database Memory would be taken away from JRE.
+
+For POC(Proof of Concept) by default SpringBoot supports a database called "H2".
+
+Working with EmbededDatabase[Default port is the port which is used for running applications]
+=============================================================================================
+  Create a dependancy with H2,Lombok,Datajpa,SpringWeb
+
+1. To work with Embeded Database we need to use the following dependancy in pom.xml file
+<dependency>
+	<groupId>com.h2database</groupId>
+	<artifactId>h2</artifactId>
+	<scope>runtime</scope>
+</dependency>
+
+
+2. application.properites
+#Details about H2 database
+spring.datasource.driverClassName=org.h2.Driver
+spring.datasource.url=jdbc:h2:mem:ineurondb
+spring.datasource.username=sa
+spring.datasource.password=
+
+#Displaying the query details on console
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.format_sql=true
+
+#Dialect information of h2 database
+spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+
+#enabling the H2 console
+spring.h2.console.enabled=true
+
+#Server port to host our application and same port will be used for H2-Database also
+server.port=4444
+
+3. Model(Student)[id,name,email,address]
+4. in.ineuron.restcontroller
+		[Endpoints 
+			a. POST   => /register 
+			b. GET    => /student/findAll,
+			c. GET    => /student/find/{id} ,
+			d. PUT    => /register 
+			e. DELETE => /student/{id} 
+		]
+
+5. run the application and test the h2 database in the following url
+		http://localhost:4444/h2-console
+
+				refer:: SpringRest-H2-Database-App
+
+
+
+Working with PostgreSQL[Portno:: 5432]
+======================
+ Download and install postgresql from the following link
+		https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
+1. Create a project with the following starter files
+		datajpa,web,postgresql driver
+pom.xml
+=======
+<dependency>
+	<groupId>org.postgresql</groupId>
+	<artifactId>postgresql</artifactId>
+	<scope>runtime</scope>
+</dependency>
+
+2. Create application.properties
+
+#Driver url,username,password
+spring.datasource.dbcp2.driver-class-name= org.postgresql.Driver
+spring.datasource.url=jdbc:postgresql://localhost:5432/ineuronDb
+spring.datasource.username=postgres
+spring.datasource.password=root123
+
+## Hibernate Properties
+# The SQL dialect makes Hibernate generate better SQL for the chosen database
+spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.PostgreSQLDialect
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+
+# Hibernate ddl auto (create, create-drop, validate, update)
+spring.jpa.hibernate.ddl-auto = update
+
+
+#Server port to host our application and same port will be used for H2-Database also
+server.port=4444
+
+3. To open postgresql just pgadmin4 and type password of the dbadmin to open.
+
+4. Run the application and test in postman client
+
+					refer:: SpringRest-PostgreSQL-App

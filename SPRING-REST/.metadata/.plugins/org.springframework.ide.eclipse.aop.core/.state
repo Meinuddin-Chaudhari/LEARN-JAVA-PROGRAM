@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringRest-08-TicketManagementAppErrorResponseAppUsingSwagger"/>
+<aop-project name="SpringRest-10-ConsumerApp"/>
+<aop-project name="SpringRest-06-TicketManagementApp"/>
+<aop-project name="SpringRest-07-TicketManagementAppErrorResponseApp"/>
+<aop-project name="SpringRest-PostgreSQL-App"/>
+<aop-project name="ineuron"/>
+<aop-project name="SpringRest-05-JSONObjectResponseApp"/>
+<aop-project name="SpringRest-HATEOS-App"/>
+</aop-reference-model>

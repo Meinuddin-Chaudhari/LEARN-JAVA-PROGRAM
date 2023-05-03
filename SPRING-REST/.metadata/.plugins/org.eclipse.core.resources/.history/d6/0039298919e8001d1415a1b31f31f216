@@ -1,0 +1,4 @@
+server.port=5555
+
+server.servlet.context-path=/consumerapp
+pring.batch.job.enabled=false

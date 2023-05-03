@@ -1,0 +1,4 @@
+127.0.0.1 - - [01/May/2023:15:36:40 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/May/2023:15:36:41 +0530] "GET /SpringRest-01-SimplePOC/ HTTP/1.1" 404 156
+0:0:0:0:0:0:0:1 - - [01/May/2023:15:37:49 +0530] "POST /api/tourist/register HTTP/1.1" 404 779
+0:0:0:0:0:0:0:1 - - [01/May/2023:15:38:14 +0530] "POST /RestMiniProject/api/tourist/register HTTP/1.1" 404 799
