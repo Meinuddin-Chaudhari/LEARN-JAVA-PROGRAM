@@ -1,0 +1,43 @@
+Sending Email using Spring Boot
+===============================
+ Steps to develop Spring boot application to send Email
+
+1. Create spring boot application with below dependancies
+		a. spring-boot-starter-web
+		b. spring-boot-starter-mail
+
+2. Configure below properties
+		server.port 
+		smtp properties
+
+note: Here we are using gmail SMTP properties for practise purpose,In company they will share SMTP properites for use.
+
+3. Enable Less Secure Apps for the mail which is configure in SMTP properties for Authentication.
+			1. Enable 2 step verification 
+			2. Open 2 step verification page, go to the bottom and Click on App passwords. 
+			3. Generate app password with type as ‘Others’(copy the password and keep in applicatin.properties) 
+
+
+4. Create EmailService Class with the required methods to send mail(we will use Spring Provided JavaMailSender to send emails)
+
+5. Create RestController method to accept the request(This method will call EmailService class method to send mail)
+
+6. Run boot application and Test it.
+
+
+application.properties
+======================
+#Properties to tell the mail protocol vendor
+spring.mail.host=smtp.gmail.com
+spring.mail.port=587
+
+#Actual username,password of sender
+spring.mail.username=username
+spring.mail.password=(password generated)
+
+#Property to trigger smtp
+spring.mail.properties.mail.smtp.auth=false
+spring.mail.properties.mail.smtp.starttls.enable=true
+spring.mail.properties.mail.smtp.starttls.required = true
+
+				refer:: SpringBoot-MailApp
